@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace mailman
+namespace Mailman
 {
     class Program
     {

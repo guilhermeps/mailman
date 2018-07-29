@@ -687,9 +687,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/guilhermeps/workspace/mailman/src/mailman.csproj",
-      "projectName": "mailman",
-      "projectPath": "/home/guilhermeps/workspace/mailman/src/mailman.csproj",
+      "projectUniqueName": "/home/guilhermeps/workspace/mailman/src/Mailman.csproj",
+      "projectName": "Mailman",
+      "projectPath": "/home/guilhermeps/workspace/mailman/src/Mailman.csproj",
       "packagesPath": "/home/guilhermeps/.nuget/packages/",
       "outputPath": "/home/guilhermeps/workspace/mailman/src/obj/",
       "projectStyle": "PackageReference",
